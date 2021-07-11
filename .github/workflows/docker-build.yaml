@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: ${{ secrets.YOUR_DOCKERHUB_REPOSITORY }}/python-helloworld:latest
+          tags: pompha/udacity-lessons/python-helloworld:latest
