@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: pompha/udacity-lessons/python-helloworld:latest
+          tags: pompha/python-helloworld:latest
